@@ -1,5 +1,9 @@
 <div align="center">
+<<<<<<< HEAD
   <img src="assets/portrait.svg" alt="Abhinav Yadav Dot-Matrix Portrait" width="340" />
+=======
+  <img src="assets/portrait.svg" alt="Anas Jameel Dot-Matrix Portrait" width="340" />
+>>>>>>> 8c010b3 (photo update)
   
   <br /><br />
 
