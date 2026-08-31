@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="assets/main_photo2.png" alt="Anas Jameel Dot-Matrix Portrait" width="340" />
+  <img src="assets/portrait.svg" alt="Abhinav Yadav Dot-Matrix Portrait" width="340" />
   
   <br /><br />
 
-  # Anas Jameel
+  # Abhinav Yadav
   
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software%20Engineer%20%7C%20Solo%20Dev;React%20Native%20Specialist;Deep%20Learning%20%26%20Model%20Training;Shipping%20Apps%20To%20Production" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Data%20Science%20Enthusiast;Python%20Developer;Machine%20Learning%20Learner;Building%20Data%20Science%20Projects" alt="Typing Subtitle" />
   </div>
 
-  ### 🚀 Shipping Apps & Training Models
+  ### 🚀 Building, Learning & Shipping
   
-  **Solo Developer • React Native Specialist • AI Enthusiast**
+  **Data Science • Python • Machine Learning Enthusiast**
 
   <br />
 
-  <a href="https://www.linkedin.com/in/anas-jameel-167s/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinav-yadav-3a4a05375/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://x.com/AnasJameel300" target="_blank">
+  <a href="https://x.com/Abhinav_1673" target="_blank">
     <img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff" height="28" alt="X"/>
   </a>
   &nbsp;
-  <a href="mailto:anasjameel300@gmail.com" target="_blank">
+  <a href="mailto:abhinavyadav@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff" height="28" alt="Email"/>
   </a>
 
@@ -33,12 +33,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** who prefers shipping products over just writing code. I specialize in building cross-platform mobile ecosystems and understanding the business side of deployment.
+I'm a **BTech Computer Science student** focused on **Data Science, Machine Learning, and Software Development**.
 
-* 📱 **Currently:** Leveraging **React Native** to publish production-ready Android apps to the Play Store.
-* 🧠 **AI Focus:** Fascinated by **Deep Learning** and Model Training. (Previously Shortlisted for **SIH Hackathon**).
-* 💼 **Experience:** Transitioned from Kotlin/Native Android to a modern cross-platform stack (React/Next.js/Vite).
-* 🤝 **Collaboration:** Open to collaborating on **Machine Learning** research and ambitious app ideas.
+* 🐍 **Currently:** Strengthening my skills in **Python, NumPy, Pandas, SQL, Statistics, and Machine Learning**.
+* 📊 **Data Science:** Building practical projects to improve my data analysis and problem-solving skills.
+* 🤖 **AI Focus:** Exploring **Machine Learning, Scikit-learn, and model training**.
+* 💻 **Development:** Also learning **C++, DSA, Flask, REST APIs, Git, and GitHub**.
+* 🎯 **Goal:** Become a skilled **Data Scientist / ML Engineer** and work on real-world problems.
 
 ---
 
@@ -57,10 +58,10 @@ I'm a **Software Engineer** who prefers shipping products over just writing code
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Mobile & App Dev** | <img src="https://skillicons.dev/icons?i=react,kotlin,flutter,android,expo&theme=dark" /> |
-| **Web Development** | <img src="https://skillicons.dev/icons?i=nextjs,ts,vite,tailwind,html,css&theme=dark" /> |
-| **AI & Python** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter&theme=dark" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" /> |
+| **Programming** | <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" /> |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=dark" /> |
+| **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=python,scikitlearn,jupyter&theme=dark" /> |
+| **Backend & Tools** | <img src="https://skillicons.dev/icons?i=flask,git,github,vscode&theme=dark" /> |
 
 </div>
 
@@ -86,12 +87,12 @@ I'm a **Software Engineer** who prefers shipping products over just writing code
 
 I'm not just a code machine. When the IDE closes, here is who I am:
 
-* **⚔️ Current Obsession:** Hunting monsters in *The Witcher 3: Wild Hunt*.
-* **⌚ Tinkering:** I build custom mechanical watches—because debugging tiny gears is just as hard as debugging code.
-* **🤖 Philosophy:** I believe in using AI to amplify developer productivity, not replace creativity.
+* **🎮 Gaming:** I enjoy gaming when I'm away from coding and studying.
+* **🌐 Exploring:** I like exploring new technologies and learning how things work.
+* **💻 Building:** I learn best by turning what I learn into practical projects.
 
 ---
 
 <div align="center">
-  <sub>Let's build something incredible together.</sub>
+  <sub>Let's build something meaningful together.</sub>
 </div>
