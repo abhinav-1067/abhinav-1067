@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/portrait.svg" alt="Abhinav Yadav Dot-Matrix Portrait" width="340" />
+  <img src="assets/source-photo,jpg" alt="Abhinav Yadav Dot-Matrix Portrait" width="340" />
   
   <br /><br />
 
