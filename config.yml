@@ -3,99 +3,99 @@
 # Edit this single file to personalize your entire GitHub Profile!
 # ==============================================================================
 
-github_username: "anasjameel300"
-display_name: "Anas Jameel"
-headline: "🚀 Shipping Apps & Training Models"
-tagline: "Solo Developer • React Native Specialist • AI Enthusiast"
+github_username: "abhinav-1067"
+display_name: "Abhinav Yadav"
+headline: "🚀 Building, Learning & Shipping"
+tagline: "Data Science • Python • Machine Learning Enthusiast"
 
 typing_lines:
-  - "Software Engineer | Solo Dev"
-  - "React Native Specialist"
-  - "Deep Learning & Model Training"
-  - "Shipping Apps To Production"
+  - "Data Science Enthusiast"
+  - "Python Developer"
+  - "Machine Learning Learner"
+  - "Building Data Science Projects"
 
 bio: |
-  I'm a **Software Engineer** who prefers shipping products over just writing code. I specialize in building cross-platform mobile ecosystems and understanding the business side of deployment.
+  I'm a **BTech Computer Science student** focused on **Data Science, Machine Learning, and Software Development**.
 
-  * 📱 **Currently:** Leveraging **React Native** to publish production-ready Android apps to the Play Store.
-  * 🧠 **AI Focus:** Fascinated by **Deep Learning** and Model Training. (Previously Shortlisted for **SIH Hackathon**).
-  * 💼 **Experience:** Transitioned from Kotlin/Native Android to a modern cross-platform stack (React/Next.js/Vite).
-  * 🤝 **Collaboration:** Open to collaborating on **Machine Learning** research and ambitious app ideas.
+  * 🐍 **Currently:** Strengthening my skills in **Python, NumPy, Pandas, SQL, Statistics, and Machine Learning**.
+  * 📊 **Data Science:** Building practical projects to improve my data analysis and problem-solving skills.
+  * 🤖 **AI Focus:** Exploring **Machine Learning, Scikit-learn, and model training**.
+  * 💻 **Development:** Also learning **C++, DSA, Flask, REST APIs, Git, and GitHub**.
+  * 🎯 **Goal:** Become a skilled **Data Scientist / ML Engineer** and work on real-world problems.
 
 links:
-  linkedin: "https://www.linkedin.com/in/anas-jameel-167s/"
-  x: "https://x.com/AnasJameel300"
-  email: "anasjameel300@gmail.com"
+  linkedin: "https://www.linkedin.com/in/abhinav-yadav-3a4a05375/"
+  x: "https://x.com/Abhinav_1673"
+  email: "abhinavyadav@gmail.com"
   portfolio: ""
 
 skills:
-  - name: "React Native"
-    level: 88
-    category: "Mobile"
-  - name: "Next.js / React"
-    level: 84
-    category: "Web"
-  - name: "TypeScript"
-    level: 82
-    category: "Web"
-  - name: "Python / PyTorch"
-    level: 78
-    category: "AI / ML"
-  - name: "Kotlin / Android"
-    level: 74
-    category: "Mobile"
-  - name: "Deep Learning"
+  - name: "Python"
+    level: 80
+    category: "Programming"
+  - name: "NumPy / Pandas"
     level: 70
+    category: "Data Science"
+  - name: "SQL"
+    level: 60
+    category: "Data Science"
+  - name: "Data Analysis"
+    level: 60
+    category: "Data Science"
+  - name: "Machine Learning"
+    level: 45
     category: "AI / ML"
-  - name: "Model Deployment"
-    level: 68
-    category: "AI / ML"
-  - name: "Git & CI/CD"
-    level: 85
-    category: "DevOps"
+  - name: "Flask / REST APIs"
+    level: 50
+    category: "Backend"
+  - name: "C++ / DSA"
+    level: 50
+    category: "Programming"
+  - name: "Git & GitHub"
+    level: 65
+    category: "Tools"
 
 tech_stack:
-  - category: "Mobile & App Dev"
-    icons: "react,kotlin,flutter,android,expo"
-  - category: "Web Development"
-    icons: "nextjs,ts,vite,tailwind,html,css"
-  - category: "AI & Python"
-    icons: "python,pytorch,tensorflow,jupyter"
-  - category: "Tools & Platforms"
-    icons: "git,github,vscode,windows"
+  - category: "Programming"
+    icons: "python,cpp"
+  - category: "Data Science"
+    icons: "numpy,pandas,matplotlib"
+  - category: "AI & Machine Learning"
+    icons: "python,scikitlearn,jupyter"
+  - category: "Backend & Tools"
+    icons: "flask,git,github,vscode"
 
 human_side:
-  - title: "⚔️ Current Obsession"
-    desc: "Hunting monsters in *The Witcher 3: Wild Hunt*."
-  - title: "⌚ Tinkering"
-    desc: "I build custom mechanical watches—because debugging tiny gears is just as hard as debugging code."
-  - title: "🤖 Philosophy"
-    desc: "I believe in using AI to amplify developer productivity, not replace creativity."
+  - title: "🎮 Gaming"
+    desc: "I enjoy gaming when I'm away from coding and studying."
+  - title: "🌐 Exploring"
+    desc: "I like exploring new technologies and learning how things work."
+  - title: "💻 Building"
+    desc: "I learn best by turning what I learn into practical projects."
 
 bento:
   production_focus:
-    - title: "📱 Mobile Ecosystems"
-      desc: "Production React Native & Android Play Store apps"
-    - title: "🧠 Deep Learning & AI"
-      desc: "PyTorch model training, fine-tuning & inference"
-    - title: "🌐 Modern Full-Stack"
-      desc: "Next.js, TypeScript & performant cloud APIs"
+    - title: "📊 Data Science"
+      desc: "Python, NumPy, Pandas, SQL, statistics & data analysis"
+    - title: "🧠 Machine Learning"
+      desc: "Learning ML concepts, Scikit-learn & model training"
+    - title: "💻 Software Development"
+      desc: "C++, DSA, Flask, REST APIs & Git/GitHub"
   milestones:
-    - badge: "🏆 SIH Hackathon"
-      desc: "Shortlisted for Smart India Hackathon"
-    - badge: "🚀 Play Store Delivery"
-      desc: "Shipped & maintained production Android apps"
-    - badge: "🔄 Stack Migration"
-      desc: "Kotlin Android codebase to React Native & Web"
+    - badge: "🐍 Python"
+      desc: "Building a strong foundation in Python for Data Science"
+    - badge: "📊 Data Science"
+      desc: "Learning data analysis and working with real datasets"
+    - badge: "🚀 Projects"
+      desc: "Building practical projects while learning new technologies"
 
-footer_text: "Let's build something incredible together."
+footer_text: "Let's build something meaningful together."
 
 portrait:
   source_image: "assets/source-photo.jpg"
-  grid_spacing_px: 8        # fine grid for high fidelity
-  canvas_size_px: 1000      # canvas resolution in pixels
-  color_palette: "original" # "original", "monochrome", or "duotone"
-  duotone_light: "#ffffff"  # highlight in duotone/monochrome
-  duotone_dark: "#161b22"   # background in duotone/monochrome
-  reveal_style: "rows"      # "rows" | "columns" | "diagonal"
-
+  grid_spacing_px: 8
+  canvas_size_px: 1000
+  color_palette: "original"
+  duotone_light: "#ffffff"
+  duotone_dark: "#161b22"
+  reveal_style: "rows"
