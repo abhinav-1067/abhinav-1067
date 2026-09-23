@@ -118,15 +118,6 @@
       <rect class="hud-bar bar-1" x="0" y="8" width="352.8" height="6" rx="3" fill="#ffffff" style="animation-delay: 0.32s;"/>
     </g>
 
-    <!-- Skill 3: Next.js / React -->
-    <g transform="translate(480, 175)">
-      <text x="0" y="0" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Next.js / React</text>
-      <text x="415" y="0" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Web • <tspan fill="#ffffff" font-weight="600">84%</tspan></text>
-      <!-- Track -->
-      <rect x="0" y="8" width="415" height="6" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-      <!-- Fill with CSS grow animation -->
-      <rect class="hud-bar bar-2" x="0" y="8" width="348.6" height="6" rx="3" fill="#ffffff" style="animation-delay: 0.44s;"/>
-    </g>
 
     <!-- Skill 4: TypeScript -->
     <g transform="translate(480, 215)">
@@ -146,16 +137,6 @@
       <rect x="0" y="8" width="415" height="6" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
       <!-- Fill with CSS grow animation -->
       <rect class="hud-bar bar-4" x="0" y="8" width="323.7" height="6" rx="3" fill="#ffffff" style="animation-delay: 0.68s;"/>
-    </g>
-
-    <!-- Skill 6: Kotlin / Android -->
-    <g transform="translate(480, 295)">
-      <text x="0" y="0" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Kotlin / Android</text>
-      <text x="415" y="0" text-anchor="end" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Mobile • <tspan fill="#ffffff" font-weight="600">74%</tspan></text>
-      <!-- Track -->
-      <rect x="0" y="8" width="415" height="6" rx="3" fill="#161b22" stroke="#21262d" stroke-width="1"/>
-      <!-- Fill with CSS grow animation -->
-      <rect class="hud-bar bar-5" x="0" y="8" width="307.1" height="6" rx="3" fill="#ffffff" style="animation-delay: 0.80s;"/>
     </g>
   </g>
 </svg>
